@@ -1,0 +1,20 @@
+command=/bin/bash
+font-family="Fira Code Regular"
+font-size=14
+font-feature=liga
+font-feature=clig
+
+background-opacity=0.6
+background-blur=true
+background-blur-radius=80
+
+cursor-style=block
+cursor-style-blink=true
+window-height=63
+window-width=186
+
+theme=Elementary
+confirm-close-surface=false
+cursor-style=underline
+
+term=xterm-256color
