@@ -10,8 +10,8 @@ background-blur-radius=80
 
 cursor-style=block
 cursor-style-blink=true
-window-height=63
-window-width=186
+window-height=64
+window-width=187
 
 theme=Elementary
 confirm-close-surface=false
