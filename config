@@ -4,6 +4,7 @@ font-size=14
 font-feature=liga
 font-feature=clig
 
+
 background-opacity=0.6
 background-blur=true
 background-blur-radius=80
